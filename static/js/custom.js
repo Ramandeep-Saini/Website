@@ -1,13 +1,3 @@
-/*========================================================================
-EXCLUSIVE ON themeforest.net
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Template Name   : KEIRA
-Author          : mital_04
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Copyright (c) 2018 - mital_04
-========================================================================*/
-
-
 (function($){
    "use strict"
     var KEIRA = {};
@@ -218,8 +208,8 @@ Copyright (c) 2018 - mital_04
             speed: 200,
             loop:true,
             strings: [
-              'TKS Innovator',
               'Artificial Intelligence Developer',
+              'Technology Writer',
               'Co-Founder of Prohibio Health',
               'Art Blogger'
             ],
