@@ -211,7 +211,7 @@
               'Artificial Intelligence Developer',
               'Technology Writer',
               'Founder of Cryptic Languages',
-               'Computer Science and Business Administration Student'
+               'Computer Science Student'
             ],
             breakLines: false
         });
