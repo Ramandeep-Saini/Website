@@ -1114,7 +1114,7 @@ div#particles-box {
     min-height: 450px;
   }
   .about-box {
-    padding: 0px 0 0;
+    padding: 40px 0 0;
   }
 }
 @media(max-width: 767px) {
@@ -1148,6 +1148,7 @@ div#particles-box {
  .aboutus-text h3 {
   font-weight: 600;
   color: #292929;
+  margin-right: 0px
   margin-bottom: 20px;
   font-size: 36px;
  }
@@ -1159,7 +1160,7 @@ div#particles-box {
  }
 
  .aboutus-text .counter-box {
-  margin: 25px 0 40px;
+  margin: 0px 0 0px;
  }
  .aboutus-text .counter-col {
     position: relative;
