@@ -209,9 +209,9 @@
             loop:true,
             strings: [
               'Artificial Intelligence Developer',
+               'Previously at the Sunnybrook Research Institute',
               'Technology Writer',
-              'Co-Founder of Prohibio Health',
-              'Art Blogger'
+              'Founder of Cryptic Languages',
             ],
             breakLines: false
         });
